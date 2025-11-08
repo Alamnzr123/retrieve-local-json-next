@@ -2,7 +2,7 @@
 
 This repository is a Next.js + TypeScript app that exposes a single POST API endpoint (`/api/search`) backed by a local JSON dataset (`data/faqs.json`) and a responsive Tailwind-based UI. It is intentionally minimal and useful as an example of building a local-search API without external services.
 
-[`Screenshot`](./public/Screenshot.png)
+![screenshot](./public/Screenshot.png)
 
 ## What this project provides
 
