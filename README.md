@@ -17,12 +17,11 @@ This repository is a Next.js + TypeScript app that exposes a single POST API end
 Requirements:
 
 - Node.js 20+ (the Dockerfile uses Node 20 image)
-- npm (this repo includes a `package-lock.json` so `npm ci` is recommended)
 
 Install dependencies:
 
 ```powershell
-npm ci
+npm i
 ```
 
 Run the development server (hot reload):
